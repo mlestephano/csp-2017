@@ -1,7 +1,7 @@
 nav {
     background:url(images/paper.jpg) no-repeat;
     float: left;
-    text-align: right
+    text-align: center
     width: 100px;
     height: 1500px;
     margin: 1;
@@ -11,6 +11,7 @@ nav {
     border: 1px solid gray;
     margin: 0px;
     background-color:#D1D1D1;
+    
 }
 
 article {
