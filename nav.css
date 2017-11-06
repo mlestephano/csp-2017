@@ -3,8 +3,8 @@ ul.first {
     margin: 0;
     padding: 0;
     width: 200px;
-    background-color: #f1f1f1;
-    border: 1px solid #555;
+    border: 1px solid black;
+    background-color: #f1f1f1
 }
 
 li a {
@@ -12,8 +12,7 @@ li a {
     color: #000;
     padding: 8px 16px;
     text-decoration: none;
-    text-align: center
-    border-bottom: 1px solid #555;
+    text-align: center;
 }
 
 /* Change the link color on hover */
@@ -21,3 +20,4 @@ li a:hover {
     background-color: #555;
     color: white;
 }
+

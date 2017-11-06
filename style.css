@@ -1,17 +1,15 @@
 nav {
     background:url(images/paper.jpg) no-repeat;
     float: left;
-    text-align: center
+    text-align: center;
     width: 100px;
-    height: 1500px;
+    height: 1200px;
     margin: 1;
     padding: 30px;
     font-size: 18px; 
-    font-family: Verdana
+    font-family: Verdana;
     border: 1px solid gray;
-    margin: 0px;
     background-color:#D1D1D1;
-    
 }
 
 article {
